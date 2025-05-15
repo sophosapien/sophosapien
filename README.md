@@ -16,11 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shalaka-sawant-158112266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedinsite" height="30" width="40" /></a>
-
-  <a href="https://medium.com/@heyitsshalaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mediumusername" height="30" width="40" /></a>
-
-<a href="mailto:shalakasawant015@gmail.com" target="_blank">
-  <img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="Gmail" height="30" width="40" />
+<a href="https://medium.com/@heyitsshalaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mediumusername" height="30" width="40" /></a>
+<a href="mailto:shalakasawant015@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="Gmail" height="30" width="40" />
 </a>
 </p>
 
