@@ -3,18 +3,20 @@
 
 
 
-<img align="center" src="https://www.svgrepo.com/show/415192/files-ntfs-operating.svg" alt="Gmail" height="40" width="40" /> My projects are chilling here [github.com/sophosapien](github.com/sophosapien)
+<img align="center" src="https://www.svgrepo.com/show/415192/files-ntfs-operating.svg" alt="Gmail" height="40" width="40" /> My projects are chilling here [@sophosapien](https://github.com/sophosapien)
 
-<img align="center" src="https://www.svgrepo.com/show/438896/thoughts.svg" alt="Gmail" height="40" width="40" /> Where do my thoughts go? Right here - part science, part stories, all me! [medium.com/heyitshalaka](medium.com/heyitsshalaka)
+<img align="center" src="https://www.svgrepo.com/show/438896/thoughts.svg" alt="Gmail" height="40" width="40" /> Where do my thoughts go? Right here - part science, part stories, all me! [https://medium.com/heyitsshalaka](https://medium.com/@heyitsshalaka)
 
 <img align="center" src="https://www.svgrepo.com/show/489456/email.svg" alt="Gmail" height="30" width="40" /> You can reach me faster than my scripts run, hopefully! **shalakasawant015@gmail.com**
 
-<img align="center" src="https://www.svgrepo.com/show/266221/resume-portfolio.svg" alt="Gmail" height="30" width="40" /> Want to know what I bring to the table? Here’s my resume [linktoresume](linktoresume)>
+<img align="center" src="https://www.svgrepo.com/show/266221/resume-portfolio.svg" alt="Gmail" height="30" width="40" /> Want to know what I bring to the table? Here’s my resume [linktoresume](linktoresume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/shalaka-sawant-158112266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedinsite" height="30" width="40" /></a>
-<a href="https://medium.com/@heyitsshalaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mediumusername" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shalaka-sawant-158112266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedinsite" height="30" width="40" /></a>
+
+  <a href="https://medium.com/@heyitsshalaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mediumusername" height="30" width="40" /></a>
+
 <a href="mailto:shalakasawant015@gmail.com" target="_blank">
   <img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="Gmail" height="30" width="40" />
 </a>
